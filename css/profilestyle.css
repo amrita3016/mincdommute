@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  padding:0;
+  background-image:url("https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-1.2.1&q=80&f");
+  -webkit-background-size:cover;
+  background-size:cover;
+font-family: 'Ubuntu', sans-serif;
+}
+ .navy {
+   font-weight: bold;
+   font-size: 20px;
+   font-family: 'Quicksand', sans-serif;
+   position: relative;
+   right: 30px;
+ }
+
+ .navbar-brand {
+   padding-left: 10%;
+   position: relative;
+   left: 20px;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 30px;
+ }
+
+ .navbar {
+   position: fixed;
+   width: 1540px;
+   right: 20px;
+   padding left: 10%;
+   z-index: 1;
+ }
