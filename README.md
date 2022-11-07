@@ -1,1 +1,1 @@
-# mincdommute
+# mindcommute
